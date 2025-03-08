@@ -3,3 +3,5 @@ my father name is sohail
 ASA
 WAS
 Add
+WAS
+Delete
